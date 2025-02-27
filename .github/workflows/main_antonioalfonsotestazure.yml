@@ -55,4 +55,4 @@ jobs:
           app-name: 'antonioalfonsotestazure'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_13B8E3D9458B4206BF404D8173F7FECA }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_87DEF8CAEE4644FE9F3783F825643075 }}
